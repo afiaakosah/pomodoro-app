@@ -6,11 +6,11 @@
 
 #### Project description
 
-###### We build a pomodoro timer app that you can share with friends and track your TODO list. The app has a login system, a dashboard, and lets the user select how long they'd like to work for. 
+###### A pomodoro timer app that you can share with friends and track your TODO list. The app has a login system, a dashboard, and lets the user select how long they'd like to work for. 
 
 #### Team members and contributions
 
-###### Sabrina Chwalek (schwalek), Afia Akosah-Bempah (aakosahb), Angela Yeung (ayeung9), Maxime Seknadje (mseknadj) 
+###### Sabrina Chwalek, Afia Akosah-Bempah, Angela Yeung, Maxime Seknadje
 ###### 
 
 ## Design choices
